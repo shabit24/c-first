@@ -19,6 +19,7 @@ using namespace std;
 int main()
 {
     float len, bre;
+    int i;
     cout << "Enter Length of Rectangle:";
     cin >> len;
     cout << "Enter Breadth of Rectangle:";
